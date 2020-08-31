@@ -14,6 +14,6 @@ import org.springframework.stereotype.Service;
 public class TicketServiceImpl implements TicketService {
     @Override
     public String getTicket() {
-        return "<<历史直接>>";
+        return "《历史直接》";
     }
 }
